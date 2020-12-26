@@ -10,4 +10,7 @@ public class Pagelerefalanfilan {
     public void test(){
 
     }
+    public void test1(){
+
+    }
 }
