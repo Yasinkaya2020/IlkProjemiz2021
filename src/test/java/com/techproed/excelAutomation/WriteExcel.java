@@ -18,15 +18,7 @@ public class WriteExcel {
         //Adimlari takip ederek 1.satira kadar gidelim
         //4.hucreye yeni bir cell olusturalim
         //Olusturdugumuz hucreye “Nufus” yazdiralim
-
-
-
-
-
-
         //WriteExcel
-
-
             String path="./src/test/java/resources/ulkeler.xlsx";
             FileInputStream fileInputStream=new FileInputStream(path);
             Workbook workbook= WorkbookFactory.create(fileInputStream);
